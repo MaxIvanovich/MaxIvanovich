@@ -11,7 +11,7 @@
 
 ---
 
-| [![MaxIvanovich's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxIvanovich&count_private=true&show_icons=true&theme=graywhite)](https://github.com/MaxIvanovich) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxIvanovich&layout=compact)](https://github.com/MaxIvanovich) |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxIvanovich&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="MaxIvanovich's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxIvanovich&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories ####
