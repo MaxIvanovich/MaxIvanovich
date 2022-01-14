@@ -8,7 +8,7 @@
 - :arrow_forward: 3D-modeling
 - :arrow_forward: R/C modeling
 - :arrow_forward: A lot of others
-- :grey_question: Ask me about anything [here](https://github.com/MaxIvanovich/MaxIvanovich/issues)
+- :question: Ask me about anything [here](https://github.com/MaxIvanovich/MaxIvanovich/issues)
 
 ---
 
