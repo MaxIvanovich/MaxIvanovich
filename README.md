@@ -2,12 +2,13 @@
 
 ## I'm an Rotating Equipment Engineer ##
 **I have a lot of hobbies:**
-- :pushpin: Programming in Python
-- :pushpin: Programming in Fortran
-- :pushpin: Neural Networks
-- :pushpin: 3D-modeling
-- :pushpin: R/C modeling
-- :pushpin: A lot of others
+- :arrow_forward: Programming in Python
+- :arrow_forward: Programming in Fortran
+- :arrow_forward: Neural Networks
+- :arrow_forward: 3D-modeling
+- :arrow_forward: R/C modeling
+- :arrow_forward: A lot of others
+- :grey_question: Ask me about anything [here](https://github.com/MaxIvanovich/MaxIvanovich/issues)
 
 ---
 
@@ -16,6 +17,13 @@
 
 #### Top Repositories ####
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MaxIvanovich/mcap_fs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=mcap_fs&theme=graywhite" />
 </a>
+<a href="https://github.com/MaxIvanovich/MaxIvanovich">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=MaxIvanovich.github.io&theme=graywhite" />
+</a>
+
+---
+
+Thanks to [Anurag Hazra](https://github.com/anuraghazra) for so beautiful [github stats](https://github.com/anuraghazra/github-readme-stats)
