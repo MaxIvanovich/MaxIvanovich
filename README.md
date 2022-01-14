@@ -26,4 +26,4 @@
 
 ---
 
-Thanks to [Anurag Hazra](https://github.com/anuraghazra) for so beautiful [github stats](https://github.com/anuraghazra/github-readme-stats)
+:exclamation: Thanks to [Anurag Hazra](https://github.com/anuraghazra) for so beautiful [github stats](https://github.com/anuraghazra/github-readme-stats)
