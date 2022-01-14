@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=mcap_fs&theme=graywhite" />
 </a>
 <a href="https://github.com/MaxIvanovich/MaxIvanovich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=MaxIvanovich.github.io&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=MaxIvanovich&theme=graywhite" />
 </a>
 
 ---
