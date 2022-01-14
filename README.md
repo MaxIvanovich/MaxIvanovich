@@ -9,18 +9,10 @@
 - :pushpin: R/C modeling
 - :pushpin: A lot of others
 
-<br />
-
 ---
 
 [![MaxIvanovich's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxIvanovich&count_private=true&show_icons=true&theme=graywhite)](https://github.com/MaxIvanovich)
 
-<br />
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=mcap_fs)](https://github.com/MaxIvanovich/mcap_fs)
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxIvanovich&layout=compact)](https://github.com/MaxIvanovich)
-
-
