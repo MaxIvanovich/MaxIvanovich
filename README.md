@@ -16,4 +16,6 @@
 
 #### Top Repositories ####
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=mcap_fs)](https://github.com/MaxIvanovich/mcap_fs)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxIvanovich&repo=mcap_fs&theme=graywhite" />
+</a>
