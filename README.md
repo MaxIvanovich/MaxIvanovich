@@ -1,4 +1,4 @@
-### Hi there, I'm Maxim - aka MaxIvanovich ###
+### Hi, I'm Maxim - aka MaxIvanovich ###
 
 ## I'm an Rotating Equipment Engineer ##
 **I have a lot of hobbies:**
